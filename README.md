@@ -176,7 +176,3 @@ auth-system-code/
 6. Secrets Manager에 민감 정보 저장
 
 자세한 배포 가이드는 논문의 제3장을 참조하세요.
-
-## 라이선스
-
-MIT
